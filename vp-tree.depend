@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1601988427 source:c:\users\will\desktop\vp-tree\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<math.h>
+	<windowsx.h>
+	<commctrl.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<sstream>
+	<string>
+	<iostream>
+	"resource.h"
+	"Punto.h"
+	"Nodo.h"
+
+1600976430 c:\users\will\desktop\vp-tree\resource.h
+
+1600976395 c:\users\will\desktop\vp-tree\punto.h
+
+1601949067 c:\users\will\desktop\vp-tree\vptree.h
+	<math.h>
+	<sstream>
+	<string>
+	<iostream>
+	"Punto.h"
+	"Nodo.h"
+
+1601997377 c:\users\will\desktop\vp-tree\nodo.h
+	"Punto.h"
+
+1600976923 source:c:\users\will\desktop\vp-tree\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
